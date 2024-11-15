@@ -9,6 +9,3 @@
 <p>Santino Fenoglio - 412330</p>
 <p>Federico Funes - 412201</p>
 <p>Facundo Rocha - 412108</p>
-<br>
-<h3>Consideraciones</h3>
-<p>Que se yo</p>
